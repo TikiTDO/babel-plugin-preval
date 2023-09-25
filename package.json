@@ -16,7 +16,8 @@
   },
   "files": [
     "dist",
-    "macro.js"
+    "macro.js",
+    "src/*"
   ],
   "keywords": [
     "babel",
